@@ -31,3 +31,18 @@ nav a {
 nav a:hover {
   background-color: #0090c1;
 }
+#about {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+}
+#about h1 {
+  font-size: 56px;
+  margin-bottom: 24px;
+}
+#about p {
+  font-size: 32px;
+}
